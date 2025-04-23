@@ -23,7 +23,7 @@ Outside the day job, I’m building mission-driven ventures:
 
 ## 🎓 Skills & Tools
 
-- **Security & DevSecOps**: Guardz, CrowdStrike, Splunk, Tenable, Sigma/YARA, Threat Hunting
+- **Security & DevSecOps**: Jenkins, GH actions, CrowdStrike, Splunk, MS, Sigma/YARA, Threat Hunting
 - **Languages & Automation**: Python, Bash, PowerShell, Regex, CI/CD pipelines, Playbooks
 - **Cloud & Infra**: AWS, GCP, Azure, Terraform, Docker, CASB and SASE
 - **Certifications**: CISSP, CCSP, SSCP, Security+, AWS Security Specialty
