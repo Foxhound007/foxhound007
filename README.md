@@ -44,7 +44,7 @@ Outside the day job, I’m building mission-driven ventures:
 If you're working on something exciting in the security, DevSecOps, or edtech space — or you’re hiring — I’d love to connect.
 
 - 🌐 Personal Site: [www.gaughf.org](https://www.gaughf.org)
-- 📧 Email: [charles@skillssmith.com](mailto:charles@skillssmith.com)
+- 📧 Email: [charles@skillssmith.com](mailto:charles@gaughf.org)
 - 🐦 Twitter: [@CyberAuroch](https://twitter.com/CyberAuroch)
 - 🔗 LinkedIn: [linkedin.com/in/charlesgaughf](https://www.linkedin.com/in/charlesgaughf)
 
