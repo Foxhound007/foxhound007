@@ -10,15 +10,6 @@ Welcome to my corner of GitHub! I'm a cybersecurity engineer with nearly 15 year
 ### 🛡️ Security Engineering
 By day, I serve as a Technical engineer where I’ve helped lead and modernize detection engineering, response automation, and threat intelligence sharing across financial sector institutions.
 
-### 🚀 Entrepreneurial Efforts
-Outside the day job, I’m building mission-driven ventures:
-
-- **[Auroch Security](https://aurochsecurity.com)**  
-  A boutique cybersecurity consultancy offering MSSP-style services, privacy checkups, dark web monitoring, and threat/vuln management for small-to-mid-sized businesses. Powered in part by Guardz and driven by a philosophy of proactive defense and education.
-
-- **[SkillsSmith](https://skillssmith.com)**  
-  A technical education platform focused on cybersecurity certification prep, hands-on training, and self-paced resources. Includes a mobile app (in development) and content aimed at helping professionals study on the go.
-
 ---
 
 ## 🎓 Skills & Tools
